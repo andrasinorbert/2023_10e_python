@@ -20,7 +20,7 @@ feladat1: [eredmény]
 feladat2: [eredmény]
 feladat3: [eredmény]
 feladat4: [eredmény]
-A ": " után csak az eremény szerepeljen
+A ": " után csak az eredmény szerepeljen
 
 A dolgozat python fájlját küldd el a andrasi.norbert@puskas.hu-ra az alábbi tárggyal:
 [osztály][filebeolvasas1] név 
