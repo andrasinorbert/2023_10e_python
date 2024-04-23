@@ -13,7 +13,7 @@ Az input1 fájllal dolgozz!
 
 ## Feladat 2
 
-Az input1 fájllal dolgozz!
+Az input2 fájllal dolgozz!
 
 1. Terminálból fájlnév
 1. Beolvas fv -> param: fájlnév; return: Számok[], Nevek[]
